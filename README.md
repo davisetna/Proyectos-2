@@ -9,7 +9,7 @@ Hugo Troyani 14-11094
 >Profesor:
 Novel Certad
 
-#OSCILOSCOPIO DIGITAL
+# OSCILOSCOPIO DIGITAL
 
 Objetivo General: Realizar un osciloscopio digital haciendo uso de una tarjeta de desarrollo (DEMOQE128), crear un protocolo de comunicación entre el microprocesador de la tarjeta y la computadora, montar un circuito de protección para evitar quemar el microcontrolador, y crear una interfaz grafica para poder visualizar las señales. 
 
