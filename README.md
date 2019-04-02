@@ -22,6 +22,6 @@ Objetivo General: Realizar un osciloscopio digital haciendo uso de una tarjeta d
 
 >Etapas del proyecto:
 
-
-
+1. Circuito de protección: Consta de un LM324 y un 7434 que permiten que las 4 señales con las que se alimentan el circuito no sobrepasen el voltaje que permite el micro MC9S08QE128
+2. El protocolo de comunicacion entre el procesador de la tarjeta y la computadora: El micro recibe una señal analógica que debe muestrear y convertir un numero binario; para esto el ADC convierte una cantidad física contínua (generalmente voltaje) a un número digital que representan la amplitud de dicha cantidad. La conversión implica un cuantización de la entrada por lo que se produce un pequeño error al realizar la conversión. La salida del ADC,en decimal, es un numero del 0 al 4095
 
